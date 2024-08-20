@@ -10,6 +10,12 @@ Call the GetElements function
 ## Cons
 - It need a minimal indentation as it's process by lines
 
+## Warning
+- The order of elements in blocks and single have an importance.
+    - It's better to have the block comment in first
+    - To have the method block before the function_call
+    - etc
+
 ## Exemple
 ```js
 singles = {
