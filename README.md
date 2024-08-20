@@ -17,7 +17,7 @@ Call the GetElements function
     - etc
 
 ## Exemple
-```js
+```python
 singles = {
     'comment':{
         'element':'//',
@@ -52,7 +52,7 @@ singles = {
 }
 ```
 
-```js
+```python
 blocks = {
     'comment_block':{
         'pattern': r'\/\*',
